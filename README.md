@@ -1,7 +1,7 @@
 # Haywan-Menu
 An Grand Theft Auto V Mod Menu from KANAKZ-TEAM.
 
-Based on Brick Menu
+PREMIUM MENU STATUS: 200Days left until the Premium Status will be expire.
 
 # Requirements:
 Microsoft Visual Studio 2015
