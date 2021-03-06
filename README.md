@@ -10,6 +10,6 @@ Microsoft Visual Studio 2015
 
 # Special Thanks:
 
-𝑺𝑻𝑹𝑶𝑵𝑮𝒁#9999 - Mod Menu - DISCORD NAME/-TAG
+𝑺𝑻𝑹𝑶𝑵𝑮𝒁#9999 - Mod Menu - Discord
 
-𝐊𝐔𝐑𝐃𝐎#5171 - Mod Menu - DISCORD NAME/-TAG
+𝐊𝐔𝐑𝐃𝐎#5171 - Mod Menu - Discord
