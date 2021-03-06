@@ -1,9 +1,9 @@
-# Haywan-Mod-Menu
-An Grand Theft Auto V Mod Menu
+# Haywan-MMenu
+An Grand Theft Auto V Mod Menu from KANAKZ-TEAM.
 
 Based on Brick Menu
 
-# Requirement
+# Requirements
 Microsoft Visual Studio 2015
 
 
