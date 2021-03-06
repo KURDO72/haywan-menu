@@ -1,19 +1,15 @@
 # Husky-Mod-Menu
 An Grand Theft Auto V Mod Menu
 
-Base on Brick Menu
-
-All online mod menu has been detected since GTAO 1.34 update, so I released my own menu here.
-
-I'm not developing anymore...Good Luck.
+Based on Brick Menu
 
 # Requirement
 Microsoft Visual Studio 2015
 
 
+
 # Thanks
-Alexander Blade - ScriptHookV SDK
 
-s0biet/gir489 - m0d s0beit v Redux
+𝑺𝑻𝑹𝑶𝑵𝑮𝒁#9999 - Mod Menu
 
-DatBrick - Brick Menu Base
+𝐊𝐔𝐑𝐃𝐎#5171 - Mod Menu
