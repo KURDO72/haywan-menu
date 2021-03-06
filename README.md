@@ -1,4 +1,4 @@
-# Husky-Mod-Menu
+# Haywan-Mod-Menu
 An Grand Theft Auto V Mod Menu
 
 Based on Brick Menu
